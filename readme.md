@@ -1,4 +1,4 @@
-# Charity Analysis via Neural Network
+# Neural Network Charity Analysis
 
 ## Overview
 
