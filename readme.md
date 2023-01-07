@@ -1,4 +1,4 @@
-# Project Name
+# Charity Analysis via Neural Network
 
 ## Overview
 
